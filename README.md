@@ -1,2 +1,2 @@
 # Netflix.com Clone by Sayandeep Adhikary
-# Website link -> https://sayandeep-adhikary.github.io/netflix.com/
+# Website link -> [sayandeepsnetflix.netlify.app](https://sayandeepsnetflix.netlify.app/)https://sayandeepsnetflix.netlify.app/
